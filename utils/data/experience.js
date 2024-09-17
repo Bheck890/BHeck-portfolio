@@ -15,6 +15,13 @@ export const experiences = [
   },
   {
     id: 3,
+    title: "Help Desk - Tech Support",
+    company: "FGCU",
+    duration: "(January 2019 - May 2022)",
+    description: "Worked with assisting the Help Desk and Techonolgy Services",
+  },
+  {
+    id: 4,
     title: "Self Employed Developer/IT Tech",
     company: "Code and build helpful tools.\nAlso Help People with IT Issues.",
     duration: "(June 2018 - Present)",
