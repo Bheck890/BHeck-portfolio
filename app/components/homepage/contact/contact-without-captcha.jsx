@@ -46,6 +46,9 @@ function ContactWithoutCaptcha() {
           email: '',
           message: '',
         });
+      }
+      else{
+        toast.error("Hello World"); //res.status + " " + teleRes.status
       };
     } catch (error) {
       toast.error(error?.text || error);
