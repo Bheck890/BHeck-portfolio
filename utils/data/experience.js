@@ -10,7 +10,7 @@ export const experiences = [
     id: 2,
     title: "Software Developer",
     company: "Spoores",
-    duration: "(November 2021 - Present)",
+    duration: "(November 2021 - June 2022)",
     description: "",
   },
   {
@@ -25,6 +25,6 @@ export const experiences = [
     title: "Self Employed Developer/IT Tech",
     company: "Code and build helpful tools.\nAlso Help People with IT Issues.",
     duration: "(June 2018 - Present)",
-    description: "I help People with Techology Issues. \rAlso try to develop tools to help with life",
+    description: "I help People with Techology Issues. \r\nAlso try to develop tools to help with life",
   }
 ]
