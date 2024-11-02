@@ -10,8 +10,9 @@ export const personalData = {
   facebook: 'https://www.facebook.com/BHeck89/',
   linkedIn: 'https://www.linkedin.com/in/bheck745/',
   twitter: 'https://x.com/BrandonHeck10',
+  hackerearth: "https://www.hackerearth.com/@bheck745/",
   stackOverflow: 'https://stackexchange.com/users/25428119/bailey-heck',
   leetcode: "https://leetcode.com/u/uPkrS96Pkp/",
   devUsername: "bheck",
-  resume: "https://drive.google.com/file/d/1MoiQUq87ZH754IOEWCLX-v63KBNKwHUD/view"
+  resume: "https://drive.google.com/file/d/1MoiQUq87ZH754IOEWCLX-v63KBNKwHUD/view",
 }

@@ -8,6 +8,7 @@ import { FaFacebook, FaTwitterSquare } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
 import { SiLeetcode } from "react-icons/si";
+import { SiHackerearth } from "react-icons/si";
 
 function HeroSection() {
   return (
@@ -67,6 +68,14 @@ function HeroSection() {
             >
               <FaTwitterSquare size={30} />
             </Link>
+            <Link
+              href={personalData.hackerearth}
+              target='_blank'
+              className="transition-all text-pink-500 hover:scale-125 duration-300"
+            >
+              <SiHackerearth size={30} />
+            </Link>
+            
           </div>
 
           <div className="flex items-center gap-3">

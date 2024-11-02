@@ -25,7 +25,6 @@ export const skillsData = [
   'Git',
   'Figma',
   'Canva',
-  'Ubuntu',
   'MongoDB',
   'MySQL',
   'PostgreSQL',
