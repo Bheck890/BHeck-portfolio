@@ -1,8 +1,8 @@
 export const personalData = {
-  name: "Brandon Heck",
+  name: "Bailey Heck",
   profile: '/profile.png',
   designation: "Software Engineer",
-  description: "My name is Brandon Heck. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. My core skill is based on Type Script and I love to do most of the things using new technologies like flutter. I am available for any kind of job opportunity that suits my skills and interests. I am also good with Computer Hardware and the Information Technology Field with Servers, and management.",
+  description: "My name is Bailey Heck. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. My core skill is based on Type Script and I love to do most of the things using new technologies like flutter. I am available for any kind of job opportunity that suits my skills and interests. I am also good with Computer Hardware and the Information Technology Field with Servers, and management.",
   email: 'bheck745@gmail.com',
   phone: '+15616326677',
   address: 'Fort Myers, Florida',
@@ -14,5 +14,5 @@ export const personalData = {
   stackOverflow: 'https://stackexchange.com/users/25428119/bailey-heck',
   leetcode: "https://leetcode.com/u/uPkrS96Pkp/",
   devUsername: "bheck",
-  resume: "https://drive.google.com/file/d/1Rw5Ov2p4pqe1KreildblDcRBkO0C4Y3g/view",
+  resume: "https://drive.google.com/file/d/1JElL-qcVsSh5SwA9GBWObGHeORPj2wRJ/view",
 }
