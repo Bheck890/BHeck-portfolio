@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer II',
+    title: 'Software Engineer',
     company: "EXpressLO LLC",
     duration: "(June 2022 - Present)",
     description: "",
