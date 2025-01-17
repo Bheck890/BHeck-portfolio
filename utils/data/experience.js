@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Software Engineer II',
     company: "EXpressLO LLC",
-    duration: "(June 2022 - Present)",
+    duration: "(June 2022 - May 2025)",
     description: "",
   },
   {
